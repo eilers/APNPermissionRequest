@@ -8,8 +8,8 @@
 
 #import "APNPermissionRequest.h"
 
-#import <SDCAlertView/SDCAlertController.h>
-#import <SDCAutoLayout/UIView+SDCAutoLayout.h>
+#import "SDCAlertController.h"
+#import "UIView+SDCAutoLayout.h"
 #import <QuartzCore/QuartzCore.h>
 
 static NSString *const APNPermissionRequestShown = @"APNPermissionRequestShown";
